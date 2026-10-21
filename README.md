@@ -1,1 +1,1 @@
-# manuls
+# manuals
